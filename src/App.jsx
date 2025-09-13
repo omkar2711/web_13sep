@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className='app-container'>
-      <h1>Notes App</h1>
+      <h1>My Notes App</h1>
         <AddNote addNote={addNote} />
         <NoteList note={note} />
 
