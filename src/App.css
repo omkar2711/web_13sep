@@ -1,0 +1,28 @@
+.app-container {
+  background-color: #FFE797;
+  width: 500px;
+  margin: 50px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input{
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.note{
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 5px;
+  margin-bottom: 5px;
+  text-align: left;
+  border-radius: 10px;
+}
